@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* Override all button gradients */
+button {
+  background: red !important;
+  color: #fff;
+  border: none;
+}
