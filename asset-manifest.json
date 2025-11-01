@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Powerhouse-frontend/static/css/main.47a46e63.css",
+    "main.js": "/Powerhouse-frontend/static/js/main.19a82f2f.js",
+    "static/js/239.ad40150f.chunk.js": "/Powerhouse-frontend/static/js/239.ad40150f.chunk.js",
+    "static/js/213.69a5e8d8.chunk.js": "/Powerhouse-frontend/static/js/213.69a5e8d8.chunk.js",
+    "static/js/455.60fa4b3a.chunk.js": "/Powerhouse-frontend/static/js/455.60fa4b3a.chunk.js",
+    "static/js/453.54292a4b.chunk.js": "/Powerhouse-frontend/static/js/453.54292a4b.chunk.js",
+    "static/media/2.jpeg": "/Powerhouse-frontend/static/media/2.0c493277b4550a6b355c.jpeg",
+    "static/media/pexels-leonmart-1552242.jpg": "/Powerhouse-frontend/static/media/pexels-leonmart-1552242.ce6460c17c5072eda947.jpg",
+    "index.html": "/Powerhouse-frontend/index.html",
+    "main.47a46e63.css.map": "/Powerhouse-frontend/static/css/main.47a46e63.css.map",
+    "main.19a82f2f.js.map": "/Powerhouse-frontend/static/js/main.19a82f2f.js.map",
+    "239.ad40150f.chunk.js.map": "/Powerhouse-frontend/static/js/239.ad40150f.chunk.js.map",
+    "213.69a5e8d8.chunk.js.map": "/Powerhouse-frontend/static/js/213.69a5e8d8.chunk.js.map",
+    "455.60fa4b3a.chunk.js.map": "/Powerhouse-frontend/static/js/455.60fa4b3a.chunk.js.map",
+    "453.54292a4b.chunk.js.map": "/Powerhouse-frontend/static/js/453.54292a4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47a46e63.css",
+    "static/js/main.19a82f2f.js"
+  ]
+}
